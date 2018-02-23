@@ -4,6 +4,6 @@
 2. Support Android system's DownloadManager (支持Android系统DownloadManager封装下载)
 
 ---
-#### 动画GIF展示：
+#### GIF动画展示：
 
 ![image](https://github.com/denluoyia/FileDownloader/blob/master/screenshot.gif)
